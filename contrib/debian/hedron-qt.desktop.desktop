@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Hedron
+Comment=Hedron P2P Cryptocurrency
+Exec=hedron-qt %u
+Terminal=false
+Type=Application
+Icon=hedron128
+MimeType=x-scheme-handler/hedron;
+Categories=Office;Finance;
+Name[en_US]=hedron-qt.desktop

@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/hedron_bg.qm</file>
+        <file alias="ca">locale/hedron_ca.qm</file>
+        <file alias="cs">locale/hedron_cs.qm</file>
+        <file alias="da">locale/hedron_da.qm</file>
+        <file alias="de">locale/hedron_de.qm</file>
+        <file alias="en">locale/hedron_en.qm</file>
+        <file alias="en_US">locale/hedron_en_US.qm</file>
+        <file alias="es">locale/hedron_es.qm</file>
+        <file alias="fi">locale/hedron_fi.qm</file>
+        <file alias="fr_FR">locale/hedron_fr_FR.qm</file>
+        <file alias="it">locale/hedron_it.qm</file>
+        <file alias="ja">locale/hedron_ja.qm</file>
+        <file alias="ko_KR">locale/hedron_ko_KR.qm</file>
+        <file alias="nl">locale/hedron_nl.qm</file>
+        <file alias="pl">locale/hedron_pl.qm</file>
+        <file alias="pt">locale/hedron_pt.qm</file>
+        <file alias="pt_BR">locale/hedron_pt_BR.qm</file>
+        <file alias="ro_RO">locale/hedron_ro_RO.qm</file>
+        <file alias="ru">locale/hedron_ru.qm</file>
+        <file alias="sk">locale/hedron_sk.qm</file>
+        <file alias="sv">locale/hedron_sv.qm</file>
+        <file alias="uk">locale/hedron_uk.qm</file>
+        <file alias="zh_CN">locale/hedron_zh_CN.qm</file>
+        <file alias="zh_TW">locale/hedron_zh_TW.qm</file>
+    </qresource>
+</RCC>
