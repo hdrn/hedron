@@ -1,0 +1,1 @@
+qt/qt_libbitcoinqt_a-qrc_hedron.o: qt/qrc_hedron.cpp
